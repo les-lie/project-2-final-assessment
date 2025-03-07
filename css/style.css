@@ -69,3 +69,24 @@ nav ul li {
   #hobbies-page h2 {
     color: #27ae60;
   }
+
+  /* Index */
+#books-page {
+    margin: 2rem;
+  }
+  
+  #books-page h1 {
+    text-align: center;
+    font-size: 2rem;
+  }
+  
+  #books-page img {
+    display: block;
+    margin: 1rem auto;
+    width: 200px;
+  }
+  
+  #books-page p {
+    font-style: italic;
+    color: #7f8c8d;
+  }
