@@ -28,3 +28,24 @@ nav ul {
 nav ul li {
   margin: 0 1.5rem;
 }
+
+/* Resume (Fixed width) */
+#resume-page {
+  width: 800px;
+  margin: 2rem auto;
+}
+
+#resume-page img {
+  border: 2px solid #333;
+  margin: 1rem 0;
+}
+
+#resume-page h2 {
+  color: #2c3e50;
+  border-bottom: 1px solid #ddd;
+}
+
+#resume-page audio {
+  margin: 1rem 0;
+  width: 100%;
+}
