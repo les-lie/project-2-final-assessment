@@ -49,3 +49,23 @@ nav ul li {
   margin: 1rem 0;
   width: 100%;
 }
+
+/* Hobbies (Fluid layout) */
+#hobbies-page {
+    padding: 2%;
+  }
+  
+  #hobbies-page h1 {
+    font-size: 2.5rem;
+    text-align: center;
+  }
+  
+  #hobbies-page img {
+    float: left;
+    margin: 0 1rem 1rem 0;
+    width: 30%;
+  }
+  
+  #hobbies-page h2 {
+    color: #27ae60;
+  }
